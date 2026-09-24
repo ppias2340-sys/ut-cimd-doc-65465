@@ -1,1 +1,1 @@
-{"client_name":"ut-audit","redirect_uris":["https://example.com/cb","https://www.undertec.store/cb"],"token_endpoint_auth_method":"none","grant_types":["authorization_code","refresh_token"],"response_types":["code"],"scope":"mcp"}
+{"client_id":"%s","client_name":"ut-audit","redirect_uris":["https://example.com/cb","https://www.undertec.store/cb"],"token_endpoint_auth_method":"none","grant_types":["authorization_code","refresh_token"],"response_types":["code"],"scope":"mcp"}
